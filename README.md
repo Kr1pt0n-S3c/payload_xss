@@ -1,2 +1,2 @@
 # payload_xss
-Os ataques Cross-Site Scripting (XSS) são um tipo de injeção, em que scripts maliciosos são injetados em sites benignos e confiáveis. 
+Os ataques Cross-Site Scripting (XSS) são um tipo de injeção, em que scripts maliciosos são injetados em sites benignos e confiáveis. Os ataques XSS ocorrem quando um invasor usa um aplicativo da web para enviar código malicioso, geralmente na forma de um script do navegador, para um usuário final diferente. As falhas que permitem o sucesso desses ataques são bastante difundidas e ocorrem em qualquer lugar em que um aplicativo da Web usa a entrada de um usuário na saída que gera, sem validá-la ou codificá-la.
